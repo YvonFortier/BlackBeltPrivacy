@@ -1,0 +1,6 @@
+{
+  "name": "BlackBelt Privacy",
+  "tagline": "Performance enhanced Tor with video calls, helps protect you against monitoring",
+  "body": "# BlackBeltPrivacy\r\n\r\nA performance enhanced Tor derivative. It helps to keep your browsing habits safe and secure and protects you against monitoring. Its focus is on usability and performance, over the standard Tor package.\r\nThe project is open source and free for both personal and commercial use.\r\n\r\nFeatures \r\n- Serverless & accountless PC to PC calling via MicroSip VoIP. Just enter the IP:port address of another user, click call and then talk\r\n- Streamlined Installation Package. Integrates seamlessly into an existing Firefox installation as a new profile\r\n- NoScript is provided for Firefox, along other privacy improvements\r\n- Friendly support provided, from the software itself\r\n- Regularly updated - we ensure you get the best out of Tor\r\n\r\n![](/1.jpg)\r\n\r\n![](/2.jpg)\r\n\r\n![](/3.jpg)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
